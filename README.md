@@ -1,5 +1,5 @@
 # TODS: Thermal Outdoor image Dataset for Spoofing detection
-Accepted to IEEE RoMAN 2022.
+Special session Proceedings of the IEEE/RSJ IEEE International Conference on Robot & Human Interactive Communication (RO-MAN) 2022.
 Authors: Dong-Guw Lee, Kyu-Seob Song, Dong-Soo Kwon
 
 
